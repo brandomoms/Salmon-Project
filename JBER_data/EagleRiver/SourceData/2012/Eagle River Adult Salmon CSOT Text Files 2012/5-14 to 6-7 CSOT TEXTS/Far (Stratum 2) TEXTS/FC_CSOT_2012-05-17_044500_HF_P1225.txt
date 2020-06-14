@@ -1,0 +1,35 @@
+Total Fish       =      1
+Upstream         =      1
+Downstream       =      0
+??               =      0
+
+Upstream Motion  = Left to Right
+Count  File Name:   I:\2012 Eagle River sonar\CSOT-2-more\FC_CSOT_2012-05-17_044500_HF_P1225.txt
+Editor ID          = a
+
+TL Correction      = ENABLED
+Alpha              = 0.40
+Log Multiplier     = 20.0
+Intensity          = 81 dB
+Threshold          = 38 dB
+CSOT Min Cluster   = 150 cm^2
+CSOT Min Threshold = 49 dB
+
+Window Start       = 3.33 m
+Window End         = 13.34 m
+
+
+*** Manual Marking (Manual Sizing:  Q = Quality, N = Repeat Count) ***
+
+File  Total  Frame#  Dir   R (m)   Theta   L(cm)  dR(cm)     L/dR Aspect    Time      Date      Latitude             Longitude               Pan      Tilt     Roll      Species               Motion       Q   N  Comment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1      1     155   Up    9.63    -7.5    39.3     0.0    0.00     6.0  04:53:21  2012-05-17  N 00 d  0.000000 m  W 000 d  0.000000 m    15.51    -1.81     2.89  
+
+
+*** Source File Key ***
+
+1:	Source File Name:   I:\2012 Eagle River sonar\CSOT-2-more\CSOT_2012-05-17_044500_HF.ddf
+	Source File Date:   2012-05-17
+	Source File Start:  04:46:12
+	Source File End:    04:58:56
+

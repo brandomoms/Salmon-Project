@@ -1,0 +1,520 @@
+Total Fish       =     50
+Upstream         =     50
+Downstream       =      0
+??               =      0
+
+Upstream Motion  = Left to Right
+Count  File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\FC_CSOT_2012-08-11_000000_P1238.txt
+Editor ID          = 
+Intensity          = 90 dB
+Threshold          = 0 dB
+CSOT Min Cluster   = 500 cm^2
+CSOT Min Threshold = 67 dB
+
+Window Start       = 0.42 m
+Window End         = 10.42 m
+
+
+*** Manual Marking (Manual Sizing:  Q = Quality, N = Repeat Count) ***
+
+File  Total  Frame#  Dir   R (m)   Theta   L(cm)   T(cm)     L/T  Aspect    Time      Date      Latitude             Longitude             Species               Motion       Q   N  Comment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1      1      11   Up    2.13    -7.4    72.0     0.0    0.00    12.5  00:06:03  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+   1      2      54   Up    2.11   -14.3    81.6     0.0    0.00     8.5  00:08:58  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+   1      3    2454   Up    2.41   -10.6   100.3     0.0    0.00     8.1  00:13:59  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+   3      4       0   Up    2.26    -8.7    88.4     0.0    0.00     6.3  00:32:42  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+   3      5      88   Up    3.77     2.4    64.7     0.0    0.00     8.9  00:41:34  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+   5      6      12   Up    6.25    -7.3    60.5     0.0    0.00    -0.0  01:10:17  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  19      7       0   Up    3.83   -14.3    62.5     0.0    0.00     1.8  04:35:17  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  19      8      35   Up    3.41    -9.0    89.6     0.0    0.00     3.9  04:35:27  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  21      9       2   Up    2.86    -7.1    81.6     0.0    0.00    11.0  05:01:41  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  23     10       3   Up    2.10   -14.3   103.6     0.0    0.00     5.5  05:42:29  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  26     11      38   Up    2.05   -10.2    91.5     0.0    0.00    11.1  06:40:29  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  26     12      67   Up    1.87    -9.8    91.1     0.0    0.00    14.9  06:44:39  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  28     13      27   Up    7.41     3.4    73.1     0.0    0.00    -4.6  07:12:27  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  31     14      27   Up    4.92     6.5    63.7     0.0    0.00    17.9  08:10:13  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  34     15      11   Up    3.16   -11.4    75.4     0.0    0.00     1.5  09:06:08  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  34     16      48   Up    1.85   -10.8    85.3     0.0    0.00    10.8  09:11:39  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  38     17       0   Up    2.80     3.1    64.4     0.0    0.00    14.0  10:11:21  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  40     18      14   Up    2.64   -10.6    85.8     0.0    0.00    -1.3  10:30:06  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  42     19      16   Up    1.81   -14.3    86.6     0.0    0.00     6.5  11:06:20  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  44     20      24   Up    2.99   -10.3    82.9     0.0    0.00     8.3  11:35:32  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  46     21      16   Up    2.91    -8.8    65.4     0.0    0.00    -0.0  12:03:24  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  46     22      91   Up    2.89   -13.2    82.5     0.0    0.00     7.1  12:08:22  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  48     23      40   Up    2.16    -5.9    79.0     0.0    0.00    13.7  12:38:43  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  55     24      92   Up    1.25    -2.1    77.8     0.0    0.00    38.9  14:34:23  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  57     25       7   Up    2.71    -5.2    72.9     0.0    0.00     7.7  15:02:32  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  57     26      61   Up    2.68    -9.5    74.1     0.0    0.00    18.4  15:14:16  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  60     27      25   Up    2.07    -6.6    78.1     0.0    0.00    13.0  16:04:14  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  60     28      49   Up    2.05   -14.3   107.2     0.0    0.00    10.5  16:10:38  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  63     29    1528   Up    2.10   -14.3    99.7     0.0    0.00    11.3  17:12:14  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  65     30      66   Up    2.42   -12.8    78.3     0.0    0.00    12.9  17:43:51  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  67     31      32   Up    7.06     8.4    70.7     0.0    0.00    -0.0  18:07:33  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  69     32      17   Up    2.08   -14.3    91.5     0.0    0.00    11.1  18:38:40  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  71     33       0   Up    2.09    -4.7    83.1     0.0    0.00     9.5  19:01:02  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  71     34      30   Up    2.64    -0.9    78.2     0.0    0.00     2.9  19:07:47  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  71     35      67   Up    2.17   -12.0   123.7     0.0    0.00    11.8  19:07:52  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  71     36     100   Up    2.23   -14.3    87.3     0.0    0.00     7.8  19:08:02  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  73     37       6   Up    2.18    -8.4    82.1     0.0    0.00     8.3  19:32:50  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  73     38      45   Up    3.71   -10.9    70.8     0.0    0.00     4.9  19:40:41  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  75     39      51   Up    2.06   -13.7    86.5     0.0    0.00    14.0  20:06:36  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  75     40     119   Up    2.51    -7.1    80.4     0.0    0.00    14.4  20:08:48  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  75     41     169   Up    2.46    -8.4    74.1     0.0    0.00     4.6  20:09:05  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  75     42     200   Up    1.95    -4.9    56.8     0.0    0.00    15.9  20:09:58  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  77     43      57   Up    3.63   -10.6    77.2     0.0    0.00    10.7  20:38:37  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  79     44      59   Up    4.03    -3.2    78.6     0.0    0.00    14.4  21:13:52  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  81     45      22   Up    1.90    -9.8    86.2     0.0    0.00    13.1  21:40:00  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  82     46       0   Up    2.21    -6.4    94.7     0.0    0.00     8.3  22:06:52  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  82     47      26   Up    2.50   -11.8    84.5     0.0    0.00    -4.0  22:07:50  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  84     48      30   Up    2.08    -7.0    64.9     0.0    0.00    15.7  22:42:14  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  86     49       3   Up    1.97    -9.5    85.2     0.0    0.00    12.1  23:05:35  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  88     50      38   Up    2.47   -10.9    95.5     0.0    0.00    -4.8  23:35:55  2012-08-11  N  00 d  0.000000 m  W 000 d  0.000000 m  
+
+
+*** Source File Key ***
+
+1:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_000000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  00:06:02
+	Source File End:    00:14:59
+
+2:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_001500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  00:15:03
+	Source File End:    00:23:41
+
+3:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_003000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  00:32:42
+	Source File End:    00:43:32
+
+4:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_004500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  00:55:50
+	Source File End:    00:55:53
+
+5:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_010000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  01:10:15
+	Source File End:    01:10:30
+
+6:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_011500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  01:15:04
+	Source File End:    01:25:08
+
+7:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_013000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  01:31:02
+	Source File End:    01:35:49
+
+8:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_014500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  01:52:40
+	Source File End:    01:55:50
+
+9:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_020000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  02:03:49
+	Source File End:    02:07:28
+
+10:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_021500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  02:21:25
+	Source File End:    02:29:19
+
+11:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_023000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  02:39:12
+	Source File End:    02:39:14
+
+12:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_024500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  02:48:10
+	Source File End:    02:58:30
+
+13:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_030000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  03:05:43
+	Source File End:    03:10:24
+
+14:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_031500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  03:18:10
+	Source File End:    03:26:56
+
+15:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_033000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  03:35:20
+	Source File End:    03:35:22
+
+16:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_034500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  03:50:23
+	Source File End:    03:50:28
+
+17:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_040000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  04:06:45
+	Source File End:    04:06:47
+
+18:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_041500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  04:17:15
+	Source File End:    04:25:02
+
+19:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_043000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  04:35:17
+	Source File End:    04:35:31
+
+20:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_044500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  04:49:32
+	Source File End:    04:49:35
+
+21:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_050000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  05:01:41
+	Source File End:    05:12:02
+
+22:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_051500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  05:15:54
+	Source File End:    05:28:39
+
+23:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_053000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  05:42:28
+	Source File End:    05:42:31
+
+24:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_054500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  05:57:54
+	Source File End:    05:57:58
+
+25:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_061500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  06:28:18
+	Source File End:    06:28:21
+
+26:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_063000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  06:31:09
+	Source File End:    06:44:41
+
+27:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_064500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  06:51:49
+	Source File End:    06:51:52
+
+28:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_070000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  07:06:27
+	Source File End:    07:12:30
+
+29:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_071500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  07:16:54
+	Source File End:    07:24:24
+
+30:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_074500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  07:54:21
+	Source File End:    07:54:24
+
+31:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_080000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  08:10:09
+	Source File End:    08:10:16
+
+32:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_081500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  08:19:00
+	Source File End:    08:28:26
+
+33:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_083000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  08:32:06
+	Source File End:    08:32:09
+
+34:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_090000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  09:06:07
+	Source File End:    09:11:42
+
+35:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_091500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  09:16:54
+	Source File End:    09:26:43
+
+36:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_093000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  09:39:15
+	Source File End:    09:39:17
+
+37:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_094500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  09:51:41
+	Source File End:    09:51:45
+
+38:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_100000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  10:11:21
+	Source File End:    10:11:24
+
+39:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_101500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  10:17:59
+	Source File End:    10:18:01
+
+40:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_103000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  10:30:04
+	Source File End:    10:41:41
+
+41:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_104500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  10:55:39
+	Source File End:    10:59:58
+
+42:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_110000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  11:03:38
+	Source File End:    11:11:35
+
+43:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_111500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  11:18:02
+	Source File End:    11:18:04
+
+44:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_113000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  11:35:29
+	Source File End:    11:39:24
+
+45:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_114500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  11:49:05
+	Source File End:    11:57:52
+
+46:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_120000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  12:03:22
+	Source File End:    12:10:56
+
+47:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_121500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  12:19:45
+	Source File End:    12:29:59
+
+48:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_123000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  12:30:03
+	Source File End:    12:38:46
+
+49:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_124500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  12:48:22
+	Source File End:    12:59:59
+
+50:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_130000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  13:00:03
+	Source File End:    13:09:07
+
+51:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_131500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  13:20:28
+	Source File End:    13:29:59
+
+52:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_133000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  13:30:03
+	Source File End:    13:32:30
+
+53:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_134500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  13:54:57
+	Source File End:    13:55:01
+
+54:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_141500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  14:24:58
+	Source File End:    14:27:22
+
+55:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_143000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  14:34:12
+	Source File End:    14:44:59
+
+56:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_144500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  14:45:03
+	Source File End:    14:45:06
+
+57:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_150000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  15:02:31
+	Source File End:    15:14:55
+
+58:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_151500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  15:16:19
+	Source File End:    15:24:49
+
+59:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_154500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  15:45:04
+	Source File End:    15:56:22
+
+60:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_160000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  16:04:09
+	Source File End:    16:10:41
+
+61:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_163000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  16:43:02
+	Source File End:    16:43:04
+
+62:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_164500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  16:45:34
+	Source File End:    16:59:14
+
+63:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_170000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  17:05:38
+	Source File End:    17:14:59
+
+64:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_171500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  17:15:03
+	Source File End:    17:29:59
+
+65:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_173000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  17:30:03
+	Source File End:    17:44:59
+
+66:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_174500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  17:45:03
+	Source File End:    17:54:13
+
+67:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_180000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  18:07:27
+	Source File End:    18:11:26
+
+68:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_181500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  18:26:24
+	Source File End:    18:29:59
+
+69:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_183000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  18:30:03
+	Source File End:    18:38:42
+
+70:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_184500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  18:46:40
+	Source File End:    18:55:40
+
+71:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_190000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  19:01:02
+	Source File End:    19:11:51
+
+72:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_191500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  19:15:17
+	Source File End:    19:26:38
+
+73:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_193000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  19:32:49
+	Source File End:    19:40:44
+
+74:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_194500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  19:46:51
+	Source File End:    19:50:08
+
+75:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_200000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  20:03:22
+	Source File End:    20:10:01
+
+76:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_201500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  20:17:17
+	Source File End:    20:29:59
+
+77:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_203000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  20:30:03
+	Source File End:    20:41:40
+
+78:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_204500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  20:48:47
+	Source File End:    20:52:04
+
+79:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_210000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  21:10:53
+	Source File End:    21:14:32
+
+80:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_211500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  21:16:21
+	Source File End:    21:29:05
+
+81:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_213000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  21:39:48
+	Source File End:    21:43:08
+
+82:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_220000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  22:06:52
+	Source File End:    22:14:09
+
+83:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_221500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  22:15:18
+	Source File End:    22:22:12
+
+84:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_223000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  22:42:11
+	Source File End:    22:42:18
+
+85:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_224500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  22:47:32
+	Source File End:    22:50:27
+
+86:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_230000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  23:05:34
+	Source File End:    23:05:37
+
+87:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_231500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  23:15:49
+	Source File End:    23:27:13
+
+88:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_233000.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  23:34:41
+	Source File End:    23:35:58
+
+89:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\8-11-2012\CSOT_2012-08-11_234500.ddf
+	Source File Date:   2012-08-11
+	Source File Start:  23:48:07
+	Source File End:    23:57:42
+

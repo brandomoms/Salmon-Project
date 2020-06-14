@@ -1,0 +1,405 @@
+Total Fish       =      0
+Upstream         =      0
+Downstream       =      0
+??               =      0
+
+Upstream Motion  = Left to Right
+Count  File Name:   E:\2012 Eagle River\FC_CSOT_2012-09-12_000000_HF_P1205.txt
+Editor ID          = 
+Intensity          = 90 dB
+Threshold          = 0 dB
+CSOT Min Cluster   = 500 cm^2
+CSOT Min Threshold = 67 dB
+
+Window Start       = 0.42 m
+Window End         = 10.42 m
+
+
+*** Manual Marking (Manual Sizing:  Q = Quality, N = Repeat Count) ***
+
+File  Total  Frame#  Dir   R (m)   Theta   L(cm)   T(cm)     L/T  Aspect    Time      Date      Latitude             Longitude             Species               Motion       Q   N  Comment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+*** Source File Key ***
+
+1:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_000000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:08:25
+	Source File End:    00:08:30
+
+2:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_003000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:38:31
+	Source File End:    00:38:33
+
+3:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_010000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  01:02:05
+	Source File End:    01:13:10
+
+4:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_013000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  01:30:06
+	Source File End:    01:43:54
+
+5:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_020000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  02:11:23
+	Source File End:    02:11:26
+
+6:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_030000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  03:09:36
+	Source File End:    03:09:39
+
+7:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_033000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  03:31:45
+	Source File End:    03:39:59
+
+8:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_040000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  04:10:21
+	Source File End:    04:12:16
+
+9:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_043000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  04:32:17
+	Source File End:    04:41:07
+
+10:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_050000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  05:00:36
+	Source File End:    05:00:38
+
+11:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_053000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  05:37:18
+	Source File End:    05:37:20
+
+12:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_060000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  06:06:35
+	Source File End:    06:07:14
+
+13:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_063000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  06:35:15
+	Source File End:    06:35:36
+
+14:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_070000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  07:04:42
+	Source File End:    07:04:44
+
+15:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_083000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  08:42:26
+	Source File End:    08:42:29
+
+16:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_090000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  09:01:07
+	Source File End:    09:01:09
+
+17:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_113000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  11:35:30
+	Source File End:    11:42:14
+
+18:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_120000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  12:02:05
+	Source File End:    12:02:07
+
+19:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_123000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  12:37:37
+	Source File End:    12:41:32
+
+20:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_130000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  13:03:42
+	Source File End:    13:03:45
+
+21:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_133000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  13:40:15
+	Source File End:    13:40:17
+
+22:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_140000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  14:06:42
+	Source File End:    14:06:44
+
+23:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_153000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  15:37:33
+	Source File End:    15:40:21
+
+24:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_180000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  18:12:24
+	Source File End:    18:12:26
+
+25:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_193000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  19:35:51
+	Source File End:    19:43:06
+
+26:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_203000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  20:33:13
+	Source File End:    20:33:28
+
+27:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_210000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  21:02:56
+	Source File End:    21:12:52
+
+28:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_213000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  21:31:28
+	Source File End:    21:31:30
+
+29:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_220000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  22:02:28
+	Source File End:    22:04:20
+
+30:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_223000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  22:32:43
+	Source File End:    22:32:45
+
+31:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_230000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  23:05:34
+	Source File End:    23:12:41
+
+32:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_233000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  23:30:36
+	Source File End:    23:30:38
+
+33:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_000000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:08:25
+	Source File End:    00:08:30
+
+34:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_003000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:38:31
+	Source File End:    00:38:33
+
+35:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_010000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  01:02:05
+	Source File End:    01:13:10
+
+36:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_003000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:38:31
+	Source File End:    00:38:33
+
+37:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_000000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:08:25
+	Source File End:    00:08:30
+
+38:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_003000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:38:31
+	Source File End:    00:38:33
+
+39:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_010000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  01:02:05
+	Source File End:    01:13:10
+
+40:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_013000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  01:30:06
+	Source File End:    01:43:54
+
+41:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_020000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  02:11:23
+	Source File End:    02:11:26
+
+42:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_030000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  03:09:36
+	Source File End:    03:09:39
+
+43:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_033000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  03:31:45
+	Source File End:    03:39:59
+
+44:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_040000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  04:10:21
+	Source File End:    04:12:16
+
+45:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_043000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  04:32:17
+	Source File End:    04:41:07
+
+46:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_050000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  05:00:36
+	Source File End:    05:00:38
+
+47:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_053000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  05:37:18
+	Source File End:    05:37:20
+
+48:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_060000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  06:06:35
+	Source File End:    06:07:14
+
+49:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_063000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  06:35:15
+	Source File End:    06:35:36
+
+50:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_070000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  07:04:42
+	Source File End:    07:04:44
+
+51:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_083000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  08:42:26
+	Source File End:    08:42:29
+
+52:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_090000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  09:01:07
+	Source File End:    09:01:09
+
+53:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_113000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  11:35:30
+	Source File End:    11:42:14
+
+54:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_120000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  12:02:05
+	Source File End:    12:02:07
+
+55:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_123000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  12:37:37
+	Source File End:    12:41:32
+
+56:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_130000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  13:03:42
+	Source File End:    13:03:45
+
+57:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_133000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  13:40:15
+	Source File End:    13:40:17
+
+58:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_140000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  14:06:42
+	Source File End:    14:06:44
+
+59:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_153000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  15:37:33
+	Source File End:    15:40:21
+
+60:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_180000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  18:12:24
+	Source File End:    18:12:26
+
+61:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_193000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  19:35:51
+	Source File End:    19:43:06
+
+62:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_203000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  20:33:13
+	Source File End:    20:33:28
+
+63:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_210000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  21:02:56
+	Source File End:    21:12:52
+
+64:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_213000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  21:31:28
+	Source File End:    21:31:30
+
+65:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_220000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  22:02:28
+	Source File End:    22:04:20
+
+66:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_223000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  22:32:43
+	Source File End:    22:32:45
+
+67:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_230000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  23:05:34
+	Source File End:    23:12:41
+
+68:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_233000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  23:30:36
+	Source File End:    23:30:38
+
+69:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_000000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:08:25
+	Source File End:    00:08:30
+
+70:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_003000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  00:38:31
+	Source File End:    00:38:33
+
+71:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_010000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  01:02:05
+	Source File End:    01:13:10
+
+72:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_013000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  01:30:06
+	Source File End:    01:43:54
+
+73:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_020000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  02:11:23
+	Source File End:    02:11:26
+
+74:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_030000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  03:09:36
+	Source File End:    03:09:39
+
+75:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_033000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  03:31:45
+	Source File End:    03:39:59
+
+76:	Source File Name:   E:\2012 Eagle River\CSOT_2012-09-12_040000_HF.ddf
+	Source File Date:   2012-09-12
+	Source File Start:  04:10:21
+	Source File End:    04:12:16
+

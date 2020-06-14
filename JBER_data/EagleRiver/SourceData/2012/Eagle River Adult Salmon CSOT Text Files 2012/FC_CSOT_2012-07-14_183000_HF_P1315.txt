@@ -1,0 +1,135 @@
+Total Fish       =      5
+Upstream         =      5
+Downstream       =      0
+??               =      0
+
+Upstream Motion  = Left to Right
+Count  File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\FC_CSOT_2012-07-14_183000_HF_P1315.txt
+Editor ID          = 
+Intensity          = 90 dB
+Threshold          = 0 dB
+CSOT Min Cluster   = 500 cm^2
+CSOT Min Threshold = 67 dB
+
+Window Start       = 0.42 m
+Window End         = 10.42 m
+
+
+*** Manual Marking (Manual Sizing:  Q = Quality, N = Repeat Count) ***
+
+File  Total  Frame#  Dir   R (m)   Theta   L(cm)   T(cm)     L/T  Aspect    Time      Date      Latitude             Longitude             Species               Motion       Q   N  Comment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1      1      85   Up    3.09    -5.2    82.7     0.0    0.00    -4.1  18:42:32  2012-07-14  N  00 d  0.000000 m  W 000 d  0.000000 m  
+   2      2     746   Up    7.13     0.0    85.1     0.0    0.00    16.7  19:01:52  2012-07-14  N  00 d  0.000000 m  W 000 d  0.000000 m  
+   9      3      41   Up   17.32    -5.2   106.7     0.0    0.00     8.9  20:54:42  2012-07-14  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  11      4      20   Up    1.88   -14.3   116.9     0.0    0.00    -0.0  21:41:42  2012-07-14  N  00 d  0.000000 m  W 000 d  0.000000 m  
+  16      5       5   Up   13.68    -9.1    79.8     0.0    0.00   -14.4  23:57:09  2012-07-14  N  00 d  0.000000 m  W 000 d  0.000000 m  
+
+
+*** Source File Key ***
+
+1:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_183000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  18:34:47
+	Source File End:    18:42:36
+
+2:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_190000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  19:00:03
+	Source File End:    19:06:07
+
+3:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_193000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  19:36:47
+	Source File End:    19:36:49
+
+4:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_200000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  20:08:52
+	Source File End:    20:08:54
+
+5:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_201500_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  20:26:41
+	Source File End:    20:26:43
+
+6:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_203000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  20:33:17
+	Source File End:    20:34:06
+
+7:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_204500_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  20:54:00
+	Source File End:    20:55:22
+
+8:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_203000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  20:33:17
+	Source File End:    20:34:06
+
+9:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_204500_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  20:54:00
+	Source File End:    20:55:22
+
+10:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_210000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  21:12:42
+	Source File End:    21:12:44
+
+11:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_213000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  21:32:39
+	Source File End:    21:41:45
+
+12:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_220000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  22:06:29
+	Source File End:    22:08:59
+
+13:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_221500_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  22:17:00
+	Source File End:    22:17:01
+
+14:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_223000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  22:34:43
+	Source File End:    22:34:45
+
+15:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_233000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  23:30:58
+	Source File End:    23:40:20
+
+16:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_234500_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  23:57:08
+	Source File End:    23:57:12
+
+17:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_001500_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  00:23:37
+	Source File End:    00:29:44
+
+18:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_010000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  01:02:56
+	Source File End:    01:11:57
+
+19:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_011500_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  01:25:02
+	Source File End:    01:29:59
+
+20:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_013000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  01:30:02
+	Source File End:    01:43:31
+
+21:	Source File Name:   C:\Documents and Settings\Fish Wheel\Desktop\Didson files\Fish Folder\7142012\CSOT_2012-07-14_020000_HF.ddf
+	Source File Date:   2012-07-14
+	Source File Start:  02:13:04
+	Source File End:    02:13:37
+

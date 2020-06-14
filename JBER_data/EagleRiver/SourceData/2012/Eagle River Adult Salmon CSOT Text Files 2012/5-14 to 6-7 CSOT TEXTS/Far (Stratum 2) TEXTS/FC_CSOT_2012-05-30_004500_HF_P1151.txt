@@ -1,0 +1,31 @@
+Total Fish       =      1
+Upstream         =      1
+Downstream       =      0
+??               =      0
+
+Upstream Motion  = Left to Right
+Count  File Name:   I:\2012 Eagle River sonar\CSOT-2\FC_CSOT_2012-05-30_004500_HF_P1151.txt
+Editor ID          = amm
+Intensity          = 77 dB
+Threshold          = 28 dB
+CSOT Min Cluster   = 150 cm^2
+CSOT Min Threshold = 49 dB
+
+Window Start       = 9.58 m
+Window End         = 19.59 m
+
+
+*** Manual Marking (Manual Sizing:  Q = Quality, N = Repeat Count) ***
+
+File  Total  Frame#  Dir   R (m)   Theta   L(cm)   T(cm)     L/T  Aspect    Time      Date      Latitude             Longitude             Species               Motion       Q   N  Comment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1      1     117   Up   14.49    -0.8    93.1     0.0    0.00    -2.4  00:46:42  2012-05-30  N  00 d  0.000000 m  W 000 d  0.000000 m  
+
+
+*** Source File Key ***
+
+1:	Source File Name:   I:\2012 Eagle River sonar\CSOT-2\CSOT_2012-05-30_004500_HF.ddf
+	Source File Date:   2012-05-30
+	Source File Start:  00:45:35
+	Source File End:    00:59:57
+

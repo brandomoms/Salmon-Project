@@ -1,0 +1,32 @@
+Total Fish       =      1
+Upstream         =      1
+Downstream       =      0
+??               =      0
+
+Upstream Motion  = Left to Right
+Count  File Name:   I:\2012 Eagle River sonar\Range Stratum 2\Reviewed\FC_2012-05-20_114500_HF_P1829.txt
+Editor ID          = a
+
+TL Correction      = ENABLED
+Alpha              = 0.40
+Log Multiplier     = 20.0
+Intensity          = 76 dB
+Threshold          = 35 dB
+Window Start       = 3.33 m
+Window End         = 13.34 m
+
+
+*** Manual Marking (Manual Sizing:  Q = Quality, N = Repeat Count) ***
+
+File  Total  Frame#  Dir   R (m)   Theta   L(cm)  dR(cm)     L/dR Aspect    Time      Date      Latitude             Longitude               Pan      Tilt     Roll      Species               Motion       Q   N  Comment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1      1    2924   Up    7.05   -13.5    34.6     0.0    0.00   -16.4  11:49:55  2012-05-20  N 00 d  0.000000 m  W 000 d  0.000000 m   355.45    -1.98     1.59  
+
+
+*** Source File Key ***
+
+1:	Source File Name:   I:\2012 Eagle River sonar\Range Stratum 2\Reviewed\2012-05-20_114500_HF.ddf
+	Source File Date:   2012-05-20
+	Source File Start:  11:45:02
+	Source File End:    11:59:59
+
